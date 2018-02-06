@@ -1,0 +1,22 @@
+PODS:
+  - CLTimer (0.1.4)
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.10)
+  - KTCenterFlowLayout (1.3.1)
+
+DEPENDENCIES:
+  - CLTimer
+  - Crashlytics
+  - Fabric
+  - KTCenterFlowLayout
+
+SPEC CHECKSUMS:
+  CLTimer: fdb92f944aa8ee7e1edd0fed6032d836c65ebdef
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  Fabric: c73f371ee543e3f0b80608f2674750e4910d1669
+  KTCenterFlowLayout: 6e02b50ab2bd865025ae82fe266ed13b6d9eaf97
+
+PODFILE CHECKSUM: cfe45e81d47ba3507b627be0968f94b9035b89b5
+
+COCOAPODS: 1.1.1
